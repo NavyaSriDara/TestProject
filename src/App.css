@@ -1,0 +1,22 @@
+*{font-family: 'Roboto', sans-serif;}
+.card-text{font-size: 18px;padding: 10px;text-transform: capitalize;}
+.main-blk .card{
+  border: none;
+  text-align: center;
+  margin: 0 auto;
+}
+.main-blk .card img{
+  cursor:pointer;
+}
+.main-blk button{
+  background-color: #009cde;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  border-radius: 3px;
+  margin: 0 auto;
+  display: flex;
+  cursor: pointer;
+}
+.btn-blk button{padding: 10px 20px;cursor:pointer;}
+.btn-blk span{font-size: 18px;font-weight: bold;}
